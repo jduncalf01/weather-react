@@ -1,0 +1,7 @@
+small {
+  display: block;
+  max-width: 800px;
+  margin: 40px auto;
+  font-family: "Roboto", sans-serif;
+  color: #30475e;
+}
